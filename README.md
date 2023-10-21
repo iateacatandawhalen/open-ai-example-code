@@ -1,7 +1,7 @@
 # open-ai-example-code
 # (c) all rights  
 #  to strip users of access to this github
-#  repo goes to iateawhalen on github          
+#  repo goes to iateacatandawhalen on github          
 #  OR ALTERNATELY KNOWN UNDER THE EMAIL ADDRESS
 #  nikolaibostrupstrunge@gmail.com
 #  --------------------------------------------
